@@ -1,5 +1,5 @@
 body {
-    background-image: url("profile1.jpg");
+    /* background-image: url("profile1.jpg"); */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,11 +7,13 @@ body {
 }
 
 ul {
+    
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
+    
     /* background-color: #f3f3f3; */
 }
 
@@ -95,12 +97,6 @@ div.desc {
     text-align: center;
 }
 
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgba(170, 230, 144, 0.7);
-    color: white;
-    text-align: center;
+.contact {
+    padding: 40px;
 }

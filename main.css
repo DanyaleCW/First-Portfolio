@@ -1,5 +1,5 @@
 body {
-    /* background-image: url("profile1.jpg"); */
+    background-image: url("profile2.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,13 +7,11 @@ body {
 }
 
 ul {
-    
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    
     /* background-color: #f3f3f3; */
 }
 
@@ -55,7 +53,7 @@ h1 {
 }
 
 p {
-    color: #160468;
+    color: #050114;
     font-family: 'Helvetica Neue', Helvetica;
     font-weight: 200rem;
 }
